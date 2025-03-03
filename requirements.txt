@@ -1,5 +1,9 @@
 pandas
 numpy
 seaborn
+matplotlib
+scikit-learn
+catboost
+xgboost
 #-e . triggers the setup.py file automatically when installing requirements.txt
--e .
+#-e .  
